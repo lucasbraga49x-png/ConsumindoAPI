@@ -1,5 +1,3 @@
-
-
 async function ExibirValores() {
     try {
         const response = await fetch('https://economia.awesomeapi.com.br/json/last/USD-BRL');
